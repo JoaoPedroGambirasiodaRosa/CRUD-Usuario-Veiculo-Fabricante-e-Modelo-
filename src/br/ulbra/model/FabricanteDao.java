@@ -65,7 +65,7 @@ public class FabricanteDao {
         }
     }
 
-    //listagem de usuarios na tabela do formulario   ---   R
+    //listagem de fabricante na tabela do formulario   ---   R
 
     public ArrayList<Fabricante> read() {
         PreparedStatement stmt = null;
